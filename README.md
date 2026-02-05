@@ -1,5 +1,5 @@
 
-Digital Assistant for Learning (Full Stack)
+Digital Assistant for Learning (AI Software Engineering Internship )
 
 Tech Stack:
 - Frontend: HTML, CSS, JavaScript
